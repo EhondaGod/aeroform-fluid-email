@@ -4,5 +4,5 @@ A single-page promotional/product HTML email designed for **Aeroform**, a tech c
 
 ### Key Highlights
 * **Fluid-Hybrid Architecture:** Uses percentage widths and `max-width` constraints so columns stack naturally on mobile devices.
-* **Cross-Client Compatibility:** Built with nested HTML tables, inline CSS, and Microsoft Outlook (MSO) ghost tables for reliable rendering across legacy and modern clients.
+* **Cross-Client Compatibility:** Built with nested HTML tables, and inline CSS for reliable rendering across legacy and modern clients.
 * **Accessible & Lightweight:** Structured with semantic roles (`role="presentation"`), `alt` text for images, and bulletproof CTA buttons.
